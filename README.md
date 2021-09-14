@@ -1,13 +1,13 @@
 
 
 <h1 align="center">DIO Tranferências Bancárias</h1>
-
+<p align="center">![DIO BANK Logo - conceito](https://github.com/educooper/app-contas-bancarias/blob/main/topodio.bank.png?raw=true)</p>
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/dio-contas-bancarias?color=green">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/app-contas-bancarias?color=green">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/dio-contas-bancarias?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/app-contas-bancarias?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/dio-contas-bancarias?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/app-contas-bancarias?color=56BEB8">
 
 <hr>
 
@@ -55,7 +55,8 @@ $ dotnet run
 ## :coffee: Addicional Features / Recursos Adicionais 
 
 Data de nascimento para permitir somente clientes maiores de 18 anos!
+<br />
 
-![DIO BANK Logo - conceito](https://github.com/educooper/app-contas-bancarias/blob/main/topodio.bank.png?raw=true)
+![DIO BANK Logo - conceito](https://github.com/educooper/app-contas-bancarias/blob/main/topodio.bank2.png?raw=true)
 
 <a href="#top">Voltar ao Topo</a>
