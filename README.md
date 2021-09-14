@@ -60,7 +60,7 @@ Data de nascimento para permitir somente clientes maiores de 18 anos!
 <br />
 
 <p align="center">
-<img src="https://github.com/educooper/app-contas-bancarias/raw/main/topodio.bank2.png" alt="Exemplo de calculo de idade" />
+<img src="https://github.com/educooper/app-contas-bancarias/raw/main/topodio.bank2.PNG" alt="Exemplo de calculo de idade" />
   </p>
 
 <a href="#top">Voltar ao Topo</a>
