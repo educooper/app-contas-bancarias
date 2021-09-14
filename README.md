@@ -1,7 +1,7 @@
 
 
 <h1 align="center">DIO Tranferências Bancárias</h1>
-![DIO BANK Logo - conceito](https://github.com/educooper/app-contas-bancarias/blob/main/topodio.bank.png?raw=true)
+![](https://github.com/educooper/app-contas-bancarias/blob/main/topodio.bank.png?raw=true)
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/app-contas-bancarias?color=green">
 
