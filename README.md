@@ -1,7 +1,9 @@
 
 
 <h1 align="center">DIO Tranferências Bancárias</h1>
+<p align="center">
 <img src="https://github.com/educooper/app-contas-bancarias/raw/main/topodio.bank.png" alt="Pseudo logo do pseudo APP" />
+  </p>
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/app-contas-bancarias?color=green">
 
@@ -57,6 +59,8 @@ $ dotnet run
 Data de nascimento para permitir somente clientes maiores de 18 anos!
 <br />
 
-![DIO BANK Logo - conceito](https://github.com/educooper/app-contas-bancarias/blob/main/topodio.bank2.png?raw=true)
+<p align="center">
+<img src="https://github.com/educooper/app-contas-bancarias/raw/main/topodio.bank2.png" alt="Exemplo de calculo de idade" />
+  </p>
 
 <a href="#top">Voltar ao Topo</a>
