@@ -3,11 +3,11 @@
 <h1 align="center">DIO Tranferências Bancárias</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/dio-transferencias-bancarias?color=green">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/dio-contas-bancarias?color=green">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/dio-transferencias-bancarias?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/dio-contas-bancarias?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/dio-transferencias-bancarias?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/dio-contas-bancarias?color=56BEB8">
 
 <hr>
 
@@ -56,6 +56,6 @@ $ dotnet run
 
 Data de nascimento para permitir somente clientes maiores de 18 anos!
 
-![DIO.Bank]([topodio.bank.png (800×149) (raw.githubusercontent.com)](https://raw.githubusercontent.com/educooper/app-contas-bancarias/main/topodio.bank.png))
+![DIO.Bank]([topodio.bank.png (800×149)](https://raw.githubusercontent.com/educooper/app-contas-bancarias/main/topodio.bank.png))
 
 <a href="#top">Voltar ao Topo</a>
