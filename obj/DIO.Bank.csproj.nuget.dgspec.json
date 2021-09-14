@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj": {}
+    "c:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj": {
+    "c:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj",
+        "projectUniqueName": "c:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "C:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj",
+        "projectPath": "c:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\obj\\",
+        "outputPath": "c:\\Users\\Eduardo\\Documents\\DigitalInnovationOne\\dio-transferencias-bancarias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,13 +1,15 @@
 
 
 <h1 align="center">DIO Tranferências Bancárias</h1>
-
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/dio-transferencias-bancarias?color=green">
+<img src="https://github.com/educooper/app-contas-bancarias/raw/main/topodio.bank.png" alt="Pseudo logo do pseudo APP" />
+  </p>
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/app-contas-bancarias?color=green">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/dio-transferencias-bancarias?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/app-contas-bancarias?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/dio-transferencias-bancarias?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/app-contas-bancarias?color=56BEB8">
 
 <hr>
 
@@ -43,19 +45,22 @@ Antes de iniciar :checkered_flag:, você precisa ter instalado o [Git](https://g
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/educooper/dio-transferencias-bancarias
+$ git clone https://github.com/educooper/dio-contas-bancarias
 
-# Access
-$ cd dio-transferencias-bancarias
+# Acesse
+$ cd dio-contas-bancarias
 
-# Run the project
+# Execute o projeto
 $ dotnet run
 ```
 
 ## :coffee: Addicional Features / Recursos Adicionais 
 
 Data de nascimento para permitir somente clientes maiores de 18 anos!
+<br />
 
-![]()
+<p align="center">
+<img src="https://github.com/educooper/app-contas-bancarias/raw/main/topodio.bank2.png" alt="Exemplo de calculo de idade" />
+  </p>
 
 <a href="#top">Voltar ao Topo</a>
