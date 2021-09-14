@@ -56,6 +56,6 @@ $ dotnet run
 
 Data de nascimento para permitir somente clientes maiores de 18 anos!
 
-![DIO.Bank]([topodio.bank.png (800×149)](https://raw.githubusercontent.com/educooper/app-contas-bancarias/main/topodio.bank.png))
+![DIO BANK Logo - conceito](https://github.com/educooper/app-contas-bancarias/blob/main/topodio.bank.png?raw=true)
 
 <a href="#top">Voltar ao Topo</a>
